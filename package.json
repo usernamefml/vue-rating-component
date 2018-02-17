@@ -1,0 +1,27 @@
+{
+  "name": "vue-rating-component",
+  "version": "0.0.1",
+  "description": "vuejs star rating component",
+  "main": "rating.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidwroche/vue-rating-component.git"
+  },
+  "keywords": [
+    "vue",
+    "js",
+    "rating",
+    "star",
+    "rating",
+    "component"
+  ],
+  "author": "David Roche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidwroche/vue-rating-component/issues"
+  },
+  "homepage": "https://github.com/davidwroche/vue-rating-component#readme"
+}
