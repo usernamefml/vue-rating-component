@@ -1,6 +1,6 @@
 {
   "name": "vue-rating-component",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "vuejs star rating component",
   "main": "rating.vue",
   "scripts": {
