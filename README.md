@@ -1,6 +1,5 @@
 <snippet>
-  <content><![CDATA[
-# ${1:Project Name}
+  <content>
 
 Vue js star rating component.
 
@@ -12,6 +11,6 @@ npm install vue-rating-component
 
 TODO: Write usage instructions
 
-]]></content>
+</content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
